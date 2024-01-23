@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brum and I'm studying Computer Science at UNESP;
-- 👀 I’m interested in bakc-end development, for the reason that is the current focus at my university and I really enjoy to develop projects in C; 
+- 👀 I’m interested in back-end development, for the reason that is the current focus at my university and I really enjoy to develop projects in C; 
 - 🌱 I’m currently learning JavaScript, HTML and CSS on my vacation;
 - 📫 Email: gabrielbrum2805@gmail.com || Linkedin: https://www.linkedin.com/in/gabriel-martins-brum-703982195/
 - 😄 Pronouns: He/Him;
