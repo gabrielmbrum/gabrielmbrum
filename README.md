@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, HTML and CSS on my vacation;
 - 📫 Email: gabrielbrum2805@gmail.com || Linkedin: https://www.linkedin.com/in/gabriel-martins-brum-703982195/
 - 😄 Pronouns: He/Him;
-- ⚡ Fun fact: I really love music, sports and to spend time with my family.
+- ⚡ Fun facts: I really love to spend time with my family and friends, listen to music, and practice sports.
 
 <!---
 gabrielmbrum/gabrielmbrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
