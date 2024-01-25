@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Brum 
-- 📚 I'm 18 and I'm in the 3rd semester of Computer Science at UNESP;
+- 📚 I'm 18 and in the 3rd semester of Computer Science at UNESP;
 - 👀 I’m more interested in back-end development, because is the current focus at my university and I really enjoy to develop projects in C; 
 - 🌱 I’m currently learning JavaScript, HTML and CSS on my vacation;
 - 😄 Pronouns: He/Him;
