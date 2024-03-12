@@ -1,9 +1,6 @@
 ## 👋 Hi, I'm Brum 
 - 📚 I'm in the 3rd semester of Computer Science at UNESP;
-- 👀 I’m more interested in back-end development, because is the current focus at my university and I really enjoy to develop projects with it; 
 - 🌱 I’m currently studying Java, C, HTML and CSS;
-- 😄 Pronouns: He/Him;
-- 🎸 Fun facts: I really love to spend time with my family and friends, listen to music and practice sports.
 
 ## 👨🏻‍💻 Technologies & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
