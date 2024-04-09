@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Brum 
 - 📚 I'm in the 3rd semester of Computer Science at UNESP;
-- 🌱 I’m currently studying Java, C, HTML and CSS;
+- 🌱 I’m currently studying Java, C, HTML, CSS and JS;
+- 🎸 I really enjoy to play some instruments and to watch movies with my family :) 
 
 ## 👨🏻‍💻 Technologies & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
