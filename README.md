@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Brum 
 - 📚 I'm in the 3rd semester of Computer Science at UNESP;
 - 💻 I'm an intern software developer at <a href="https://www.grupogbd.com/PortalGBD/index">GBD</a>;
-- 🌱 I’m currently studying Java, C, HTML, CSS and JS;
+- 🌱 I’m currently studying Java, C and SQL;
 - 🎸 I really enjoy to play some instruments and to watch movies with my family :) 
 
 ## 👨🏻‍💻 Technologies & Tools
