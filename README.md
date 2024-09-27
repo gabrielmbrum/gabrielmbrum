@@ -1,10 +1,9 @@
 <div align="center">
   <h2>👋 Hi, I'm Brum</h2>
-</div>
   <p>
     📚 I'm in the 3rd semester of Computer Science at UNESP; <br>
     💻 I'm an intern software developer at <a href="https://www.grupogbd.com/PortalGBD/index">GBD</a>; <br>
-    🌱 I’m currently studying Java, C and SQL; <br>
+    🌱 I’m currently studying Java w/ Spring, Data Structures and SQL; <br>
     🎸 I really enjoy to play some instruments and to watch movies with my family :)
   </p>
 </div>
@@ -13,6 +12,7 @@
   <h2>👨🏻‍💻 Technologies & Tools</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
