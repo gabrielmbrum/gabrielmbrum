@@ -2,8 +2,8 @@
   <h2>👋 Hi, I'm Brum</h2>
   <p>
     📚 I'm in the 5th semester of Computer Science at UNESP; <br>
-    💻 I'm an intern software developer at <a href="https://www.grupogbd.com/PortalGBD/index">GBD</a>; <br>
-    🌱 I’m currently studying Java w/ Spring, Data Structures and SQL; <br>
+    💻 I'm a software developer at <a href="https://www.grupogbd.com/PortalGBD/index">GBD</a>; <br>
+    🌱 I’m currently studying OS, CyberSecuruty, Databases and Software Engineering; <br>
     🎸 I really enjoy to play some instruments and to watch movies with my family :)
   </p>
 </div>
