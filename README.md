@@ -20,7 +20,7 @@
 
 <div align="center">
   <h2>📫 Contacts</h2>
-  <a href="https://www.linkedin.com/in/gabriel-brum-703982195/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielbrumdev/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:gabrielbrum2805@gmail.com">
