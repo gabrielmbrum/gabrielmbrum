@@ -1,10 +1,10 @@
 <div align="center">
   <h2>👋 Hi, I'm Brum</h2>
   <p>
-    📚 I'm in the 5th semester of Computer Science at UNESP; <br>
-    💻 I'm a full stack developer at <a href="https://www.grupogbd.com/PortalGBD/index">GBD</a>; <br>
-    🌱 I’m currently studying the basics concepts of OS, Networks, Databases and Software Engineering; <br>
-    🎸 I really enjoy to play some instruments and to watch movies with my family :)
+    📚 I'm in the 6th semester of Computer Science at UNESP; <br>
+    💻 I'm a Computer Vision researcher at <a href="https://lipai.unifesp.br/home">LIPAI</a>; <br>
+    🌱 I’m currently studying the concepts of complex network image transformers to optimize the data aug process; <br>
+    🎸 I really enjoy to play the guitar, practice some sports and to watch movies with my family :)
   </p>
 </div>
 
