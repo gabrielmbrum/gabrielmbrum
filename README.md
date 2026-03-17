@@ -1,9 +1,9 @@
 <div align="center">
   <h2>👋 Hi, I'm Brum</h2>
   <p>
-    📚 I'm in the 6th semester of Computer Science at UNESP; <br>
+    📚 I'm in the 7th semester of Computer Science and starting Master Degree at UNESP; <br>
     💻 I'm a Computer Vision researcher at <a href="https://lipai.unifesp.br/home">LIPAI</a>; <br>
-    🌱 I’m currently studying the concepts of complex network image transformers to optimize the data aug process; <br>
+    🌱 I’m currently studying image metrics (focusing in entropy types) to evaluate the data augmentation quality; <br>
     🎸 I really enjoy to play the guitar, practice some sports and to watch movies with my family :)
   </p>
 </div>
