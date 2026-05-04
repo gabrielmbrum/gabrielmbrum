@@ -1,25 +1,26 @@
-<div align="center">
-  <h2>👋 Hi, I'm Brum</h2>
-  <p>
-    📚 I'm in the 7th semester of Computer Science and starting Master Degree at UNESP; <br>
-    💻 I'm a Computer Vision researcher at <a href="https://lipai.unifesp.br/home">LIPAI</a>; <br>
-    🌱 I’m currently studying image metrics (focusing in entropy types) to evaluate the data augmentation quality; <br>
-    🎸 I really enjoy to play the guitar, practice some sports and to watch movies with my family :)
-  </p>
-</div>
+## Hi, I'm Brum 👋
 
-<div align="center">
-  <h2>👨🏻‍💻 Languages & Tools</h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</div>
+**computer science student** and a **researcher** specializing in **computer vision** and **deep learning**. 
 
-<div align="center">
-  <h2>📫 Contacts</h2>
+#### background
+
+- my background is between full stack software engineering and artificial intelligence
+
+- currently, my focus is on neural network architectures for medical image classification, specifically exploring hybrid models (CNN + ViT), as well as data augmentation and synthesis techniques
+
+#### my projects
+
+- i strongly believe that knowledge should be shared
+
+- recently, the repositories that i build are intentionally designed to be educational (i did my best :)
+
+- my goal is to provide practical, hands-on study materials for anyone looking to learn about AI, machine learning, or software development
+
+#### core technologies
+- **research & AI:** Python, PyTorch, C++, Data Science
+- **software engineering:** Java, Spring Framework, SQL, PostgreSQL, AdvPL
+
+#### contact me!
   <a href="https://www.linkedin.com/in/gabrielbrumdev/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
