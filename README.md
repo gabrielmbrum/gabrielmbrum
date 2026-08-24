@@ -1,12 +1,10 @@
 ## Hi, I'm Brum 👋
-
-**computer science student** and a **computer vision researcher**. 
+**computer science student** at UNESP and a **computer vision researcher** (CNPq), advised by Prof. Dr. Leandro Neves.
 
 ### background
-
-- my background is at full-stack software engineering, where i've worked with Java & Spring using postgreDB, and now i've being working with AdvPL in ERP-Protheus systems
-
-- currently, my focus is on neural network architectures for medical image classification, specifically exploring hybrid models (CNN + ViT), as well as complex network image transform data augmentation technique
+- my background is in full-stack software engineering, where i've worked with Java & Spring using PostgreSQL, and with AdvPL in ERP-Protheus systems (schedulers, ETL pipelines, database & release management)
+- currently, my focus is on neural network architectures for histopathological image classification (cancer detection), specifically exploring hybrid models (CNN + ViT), along with a novel data augmentation technique called complex network image transform, it's already outperformed GAN-based models on 4 out of 5 medical datasets tested (paper coming soon 👀)
+- open to new opportunities in Data & AI!
 
 ### core technologies
 - **research & AI:** Python, PyTorch, C++, C
@@ -23,7 +21,6 @@
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
-
           
 <!---
 gabrielmbrum/gabrielmbrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
