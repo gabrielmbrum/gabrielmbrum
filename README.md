@@ -1,23 +1,15 @@
 ## Hi, I'm Brum 👋
 
-**computer science student** and a **researcher** specializing in **computer vision** and **deep learning**. 
+**computer science student** and a **computer vision researcher**. 
 
 #### background
 
-- my background is between full stack software engineering and artificial intelligence
+- my background is at full-stack software engineering, where i've worked with Java & Spring using postgreDB, and now i've being working with AdvPL in ERP-Protheus systems
 
-- currently, my focus is on neural network architectures for medical image classification, specifically exploring hybrid models (CNN + ViT), as well as data augmentation and synthesis techniques
-
-#### my projects
-
-- i strongly believe that knowledge should be shared
-
-- recently, the repositories that i build are intentionally designed to be educational (i did my best :)
-
-- my goal is to provide practical, hands-on study materials for anyone looking to learn about AI, machine learning, or software development
+- currently, my focus is on neural network architectures for medical image classification, specifically exploring hybrid models (CNN + ViT), as well as complex network image transform data augmentation technique
 
 #### core technologies
-- **research & AI:** Python, PyTorch, C++, Data Science
+- **research & AI:** Python, PyTorch, C++, C
 - **software engineering:** Java, Spring Framework, SQL, PostgreSQL, AdvPL
 
 #### contact me!
