@@ -2,17 +2,17 @@
 
 **computer science student** and a **computer vision researcher**. 
 
-#### background
+### background
 
 - my background is at full-stack software engineering, where i've worked with Java & Spring using postgreDB, and now i've being working with AdvPL in ERP-Protheus systems
 
 - currently, my focus is on neural network architectures for medical image classification, specifically exploring hybrid models (CNN + ViT), as well as complex network image transform data augmentation technique
 
-#### core technologies
+### core technologies
 - **research & AI:** Python, PyTorch, C++, C
 - **software engineering:** Java, Spring Framework, SQL, PostgreSQL, AdvPL
 
-#### contact me!
+### contact me!
   <a href="https://www.linkedin.com/in/gabrielbrumdev/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
